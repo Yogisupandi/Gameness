@@ -67,8 +67,8 @@ socks5://user:password@host:port
 ```
 
 ### 4. `cookies.txt` 🌐 - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/14593)
-
-```txt - if the data expired just get cookie again, query_id.../user... live longer.
+- if the data expired just get cookie again, query_id.../user... live longer.
+```txt 
 session=xxx
 session=xxx
 session=xxx
