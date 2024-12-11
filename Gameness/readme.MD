@@ -34,11 +34,12 @@ To get started with the bot, follow these steps:
 ```json
 {
   "limit": 100,
-  "countdown": 300,
+  "countdown": 86400,
   "country_time": "en-US",
-  "isDoTasks": true,
-  "isPlayGames": true
+  "DoTasks": true,
+  "PlayGames": true
 }
+
 ```
 
 ### 2. `datas.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/6879)
