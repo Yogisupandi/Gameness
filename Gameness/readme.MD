@@ -42,8 +42,8 @@ To get started with the bot, follow these steps:
 ```
 
 ### 2. `datas.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/6879)
-
-```txt - if the data expired just get cookie again, query_id.../user... live longer.
+ - If the data expired just get cookie again, query_id.../user... live longer.
+```txt
 query_id.../user...
 query_id.../user...
 query_id.../user...
@@ -67,7 +67,7 @@ socks5://user:password@host:port
 ```
 
 ### 4. `cookies.txt` 🌐 - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/14593)
-- if the data expired just get cookie again, query_id.../user... live longer.
+- If the data expired just get cookie again, query_id.../user... live longer.
 ```txt 
 session=xxx
 session=xxx
